@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image56.jpg</filename>
+	<path>I:\data\car_dent\train\image56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>940</width>
+		<height>434</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car_dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>116</ymin>
+			<xmax>718</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>
